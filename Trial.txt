@@ -1,0 +1,17 @@
+                                Accounting_Finance
+                                             TRIAL
+                                        31/12/2022
+--------------------------------------------------
+Ledger name      DR Amount      CR Amount
+--------------------------------------------------
+      cash         200500
+common_stock                        200000
+  supplies          50000
+ac_payable                         45000
+  services                         35000
+ac_receivable          14500
+salaries_expense          12000
+ dividends           3000
+--------------------------------------------------
+     TOTAL         280000         280000
+--------------------------------------------------
